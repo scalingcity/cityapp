@@ -1,0 +1,22 @@
+<layer>
+  <name>dknl_fstp</name>
+  <id>LayerInfoImpl-754f345a:17ca33c2b4b:-7ffb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--10dbb8e9:17ca2ff6515:-7fff</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--10dbb8e9:17ca2ff6515:-7fff</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-754f345a:17ca33c2b4b:-7ffc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-10-21 14:39:30.79 UTC</dateCreated>
+  <dateModified>2022-04-18 09:48:03.967 UTC</dateModified>
+</layer>

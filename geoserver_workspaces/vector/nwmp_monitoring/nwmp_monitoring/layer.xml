@@ -1,0 +1,22 @@
+<layer>
+  <name>nwmp_monitoring</name>
+  <id>LayerInfoImpl-dbc687f:180416bbbaf:-7ff9</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-dbc687f:180416bbbaf:-7ffa</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-04-19 11:21:45.73 UTC</dateCreated>
+  <dateModified>2022-04-19 11:28:52.986 UTC</dateModified>
+</layer>

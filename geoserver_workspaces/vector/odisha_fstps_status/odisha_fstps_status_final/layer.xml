@@ -1,0 +1,22 @@
+<layer>
+  <name>odisha_fstps_status_final</name>
+  <id>LayerInfoImpl-397b6f37:17c78194b93:-7ff9</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-397b6f37:17c78194b93:-7fff</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-397b6f37:17c78194b93:-7fff</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-397b6f37:17c78194b93:-7ffa</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-10-13 06:32:18.648 UTC</dateCreated>
+  <dateModified>2022-04-18 07:58:38.195 UTC</dateModified>
+</layer>

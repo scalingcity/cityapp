@@ -1,0 +1,17 @@
+<layer>
+  <name>dknl_storm_water_infrastructure</name>
+  <id>LayerInfoImpl--4072d3e9:17712722ddb:-7f0b</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4072d3e9:17712722ddb:-7f0a</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--4072d3e9:17712722ddb:-7f0c</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-01-18 09:59:51.518 UTC</dateCreated>
+  <dateModified>2021-01-18 10:03:14.50 UTC</dateModified>
+</layer>

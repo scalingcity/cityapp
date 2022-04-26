@@ -1,0 +1,17 @@
+<layer>
+  <name>ltca_pop_density</name>
+  <id>LayerInfoImpl--45a1c7c2:174d64bdc92:-7b95</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--45a1c7c2:174d64bdc92:-7bb5</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--45a1c7c2:174d64bdc92:-7b96</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2020-10-13 13:51:29.716 UTC</dateCreated>
+  <dateModified>2020-10-13 13:51:54.935 UTC</dateModified>
+</layer>

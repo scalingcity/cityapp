@@ -1,0 +1,17 @@
+<layer>
+  <name>ltca_agriculture_secondary</name>
+  <id>LayerInfoImpl--72659981:174c8c4db2e:-7fe1</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-33f8e0fe:174b598aa25:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--72659981:174c8c4db2e:-7fe2</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2020-09-26 06:48:33.419 UTC</dateCreated>
+  <dateModified>2020-09-28 19:53:27.415 UTC</dateModified>
+</layer>

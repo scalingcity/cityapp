@@ -1,0 +1,90 @@
+/* @title Statutory Towns */
+
+/* @title Statutory Towns */
+
+
+/* @title Million Plus */
+[census_sts_4041_class_new ='MP' ]{
+	mark: symbol(circle);
+  	mark-size: 16;
+  	:mark{
+  	stroke: #000000;
+  	stroke-width: 0.5;
+  	fill: #004aff;
+  	fill-opacity: 1;
+	}
+}
+
+
+/* @title Class I */
+[census_sts_4041_class_new ='I' ]{
+	mark: symbol(circle);
+  	mark-size: 12;
+  	:mark{
+  	stroke: #000000;
+  	stroke-width: 0.5;
+  	fill: #6fa8dc;
+  	fill-opacity: 1;
+	}
+}
+
+
+/* @title Class II */
+[census_sts_4041_class_new ='II' ]{
+	mark: symbol(circle);
+  	mark-size: 8;
+  	:mark{
+  	stroke: #000000;
+  	stroke-width: 0.5;
+  	fill: #ff9900;
+  	fill-opacity: 1;
+	}
+}
+
+
+/* @title Class III */
+[census_sts_4041_class_new ='III' ]{
+	mark: symbol(circle);
+  	mark-size: 6;
+  	:mark{
+  	stroke-width: 0.5;
+  	fill: #ffff00;
+  	fill-opacity: 1;
+	}
+}
+
+
+/* @title Class IV */
+[census_sts_4041_class_new ='IV' ]{
+	mark: symbol(circle);
+  	mark-size: 4;
+  	:mark{
+  	stroke-width: 0.5;
+  	fill: #c2e33d;
+  	fill-opacity: 1;
+	}
+}
+
+
+/* @title Class V */
+[census_sts_4041_class_new ='V' ]{
+	mark: symbol(circle);
+  	mark-size: 3;
+  	:mark{
+  	stroke-width: 0.5;
+  	fill: #6edb6e;
+  	fill-opacity: 1;
+	}
+}
+
+
+/* @title Class VI */
+[census_sts_4041_class_new ='VI' ]{
+	mark: symbol(square);
+  	mark-size: 2;
+  	:mark{
+  	stroke-width: 0.2;
+  	fill: #cccccc;
+  	fill-opacity: 1;
+	}
+}

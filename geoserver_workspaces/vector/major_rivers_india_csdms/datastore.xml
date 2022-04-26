@@ -1,0 +1,22 @@
+<dataStore>
+  <id>DataStoreInfoImpl-dbc687f:180416bbbaf:-7ff7</id>
+  <name>major_rivers_india_csdms</name>
+  <description>major_rivers_india_csdms</description>
+  <type>GeoPackage</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-53a0964:16fc2624139:-7fff</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="fetch size">1000</entry>
+    <entry key="Expose primary keys">false</entry>
+    <entry key="Batch insert size">1</entry>
+    <entry key="database">/usr/share/geoserver/data_dir/data/cityapp/geoserver_data/india/major_rivers_india_csdms.gpkg</entry>
+    <entry key="read_only">false</entry>
+    <entry key="dbtype">geopkg</entry>
+    <entry key="namespace">vector</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2022-04-19 12:02:54.696 UTC</dateCreated>
+  <dateModified>2022-04-19 12:02:57.267 UTC</dateModified>
+</dataStore>

@@ -1,0 +1,17 @@
+<layer>
+  <name>bbswr_dem_median_15</name>
+  <id>LayerInfoImpl-414b24b:174178f67ea:-7fce</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-414b24b:174178f67ea:-7e76</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-414b24b:174178f67ea:-7fcf</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2020-08-25 13:50:22.230 UTC</dateCreated>
+  <dateModified>2020-08-26 07:43:51.573 UTC</dateModified>
+</layer>

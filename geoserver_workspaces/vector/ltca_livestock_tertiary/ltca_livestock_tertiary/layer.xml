@@ -1,0 +1,17 @@
+<layer>
+  <name>ltca_livestock_tertiary</name>
+  <id>LayerInfoImpl--72659981:174c8c4db2e:-7fd5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--45a1c7c2:174d64bdc92:-7ff7</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--72659981:174c8c4db2e:-7fd6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2020-09-26 06:51:14.790 UTC</dateCreated>
+  <dateModified>2020-09-29 09:33:36.941 UTC</dateModified>
+</layer>

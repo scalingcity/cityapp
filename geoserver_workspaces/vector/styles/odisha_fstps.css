@@ -1,0 +1,66 @@
+/* @title Odisha FSTPs  */
+
+
+/* @title Operational */
+[layer ='operational_fstp' ]{
+  	mark: symbol(star);
+
+:mark{
+   fill: #16c036;
+   stroke:#118b18;
+}
+
+}
+
+/* @title Under Construction */
+[layer ='under_construction' ]{
+   
+    mark: symbol(star);
+  
+  :mark{
+   fill: #aceb1d;
+   stroke:#9bc40a;
+}
+
+
+
+}
+
+/* @title Construction to Start*/
+[layer ='construction_to_be_started' ]{
+    
+ 	mark: symbol(star);
+  
+  :mark{
+   fill: #f1f112;
+   stroke:#c6c60e ;
+}
+
+
+}
+
+/* @title Tender Invited */
+[layer = 'tender_invited' ]{
+    
+	mark: symbol(star);
+
+  :mark{
+   fill: #ff9900;
+   stroke:#e08e14;
+}
+
+}
+
+
+/* @title Land Issues */
+[layer = 'land_issue' ]{
+    
+  	mark: symbol(star);
+
+  :mark{
+   fill: #cc0000;
+   stroke:#990000;
+}
+
+
+}

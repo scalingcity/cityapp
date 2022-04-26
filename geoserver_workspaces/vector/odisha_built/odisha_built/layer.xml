@@ -1,0 +1,22 @@
+<layer>
+  <name>odisha_built</name>
+  <id>LayerInfoImpl-52a8aca1:17ca643e040:-7ffd</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-52a8aca1:17ca643e040:-7ffc</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-52a8aca1:17ca643e040:-7ffc</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-52a8aca1:17ca643e040:-7ffe</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-10-22 04:37:05.855 UTC</dateCreated>
+  <dateModified>2022-04-18 07:32:33.457 UTC</dateModified>
+</layer>

@@ -1,0 +1,10 @@
+/* @title Dhenkanal FSTP */
+* {
+  	mark: symbol(star);
+
+:mark{
+   fill: #16c036;
+   stroke:#118b18;
+   size: 30px;
+}
+}

@@ -1,0 +1,13 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl-754f345a:17ca33c2b4b:-7fc3</id>
+  <name>india_built</name>
+  <description>india_built</description>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-53a0964:16fc2624139:-7fc9</id>
+  </workspace>
+  <__default>false</__default>
+  <dateCreated>2021-10-21 15:50:07.419 UTC</dateCreated>
+  <url>file:///home/neha/cityapp/geoserver_data/india/ghsl-population-built-up-estimates-degree-urban-smod_built-30ss-2014.tif</url>
+</coverageStore>

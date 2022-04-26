@@ -1,0 +1,17 @@
+<layer>
+  <name>odisha_groundwater_3m</name>
+  <id>LayerInfoImpl--1bb0b972:1778f990dc7:-7ffd</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--1bb0b972:1778f990dc7:-7ffc</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--1bb0b972:1778f990dc7:-7ffe</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-02-11 05:50:15.413 UTC</dateCreated>
+  <dateModified>2021-02-11 05:53:57.167 UTC</dateModified>
+</layer>

@@ -1,0 +1,22 @@
+<layer>
+  <name>odisha_rivers</name>
+  <id>LayerInfoImpl-397b6f37:17c78194b93:-7fe5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-397b6f37:17c78194b93:-7ffe</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-397b6f37:17c78194b93:-7ffe</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-397b6f37:17c78194b93:-7fe6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-10-13 06:45:10.874 UTC</dateCreated>
+  <dateModified>2022-04-18 08:45:32.947 UTC</dateModified>
+</layer>

@@ -1,0 +1,7 @@
+/* @title Surface water lines*/
+* [waterway='river']
+{
+    stroke: #073763,#3d85c6;
+    stroke-width: 2;
+  	z-index:1,2;
+}

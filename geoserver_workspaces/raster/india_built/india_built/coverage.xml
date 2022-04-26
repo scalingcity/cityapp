@@ -1,0 +1,122 @@
+<coverage>
+  <id>CoverageInfoImpl-754f345a:17ca33c2b4b:-7fc2</id>
+  <name>india_built</name>
+  <nativeName>ghsl-population-built-up-estimates-degree-urban-smod_built-30ss-2014</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-53a0964:16fc2624139:-7fc8</id>
+  </namespace>
+  <title>india_built</title>
+  <description>Generated from GeoTIFF</description>
+  <keywords>
+    <string>ghsl-population-built-up-estimates-degree-urban-smod_built-30ss-2014</string>
+    <string>WCS</string>
+    <string>GeoTIFF</string>
+  </keywords>
+  <dataLinks>
+    <org.geoserver.catalog.impl.DataLinkInfoImpl>
+      <type>text/plain</type>
+      <content>https://doi.org/10.7927/h4154f0w</content>
+    </org.geoserver.catalog.impl.DataLinkInfoImpl>
+  </dataLinks>
+  <nativeCRS>GEOGCS[&quot;WGS 84&quot;, 
+  DATUM[&quot;World Geodetic System 1984&quot;, 
+    SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]]</nativeCRS>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>-179.99998890825066</minx>
+    <maxx>180.00001109174917</maxx>
+    <miny>-89.09195037892296</miny>
+    <maxy>89.09138295441029</maxy>
+    <crs>EPSG:4326</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-179.99998890825066</minx>
+    <maxx>180.00001109174917</maxx>
+    <miny>-89.09195037892296</miny>
+    <maxy>89.09138295441029</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>REPROJECT_TO_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+    <entry key="dirName">india_built_ghsl-population-built-up-estimates-degree-urban-smod_built-30ss-2014</entry>
+  </metadata>
+  <store class="coverageStore">
+    <id>CoverageStoreInfoImpl-754f345a:17ca33c2b4b:-7fc3</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <simpleConversionEnabled>false</simpleConversionEnabled>
+  <nativeFormat>GeoTIFF</nativeFormat>
+  <grid dimension="2">
+    <range>
+      <low>0 0</low>
+      <high>43200 21382</high>
+    </range>
+    <transform>
+      <scaleX>0.00833333333333333</scaleX>
+      <scaleY>-0.00833333333333333</scaleY>
+      <shearX>0.0</shearX>
+      <shearY>0.0</shearY>
+      <translateX>-179.995822241584</translateX>
+      <translateY>89.08721628774363</translateY>
+    </transform>
+    <crs>EPSG:4326</crs>
+  </grid>
+  <supportedFormats>
+    <string>GIF</string>
+    <string>PNG</string>
+    <string>JPEG</string>
+    <string>TIFF</string>
+    <string>GEOTIFF</string>
+  </supportedFormats>
+  <interpolationMethods>
+    <string>nearest neighbor</string>
+    <string>bilinear</string>
+    <string>bicubic</string>
+  </interpolationMethods>
+  <defaultInterpolationMethod>nearest neighbor</defaultInterpolationMethod>
+  <dimensions>
+    <coverageDimension>
+      <name>GRAY_INDEX</name>
+      <description>GridSampleDimension[-Infinity,Infinity]</description>
+      <range>
+        <min>-inf</min>
+        <max>inf</max>
+      </range>
+      <nullValues>
+        <double>-200.0</double>
+      </nullValues>
+      <dimensionType>
+        <name>REAL_32BITS</name>
+      </dimensionType>
+    </coverageDimension>
+  </dimensions>
+  <requestSRS>
+    <string>EPSG:4326</string>
+  </requestSRS>
+  <responseSRS>
+    <string>EPSG:4326</string>
+  </responseSRS>
+  <parameters>
+    <entry>
+      <string>InputTransparentColor</string>
+      <null/>
+    </entry>
+    <entry>
+      <string>SUGGESTED_TILE_SIZE</string>
+      <string>512,512</string>
+    </entry>
+    <entry>
+      <string>RescalePixels</string>
+      <boolean>true</boolean>
+    </entry>
+  </parameters>
+  <nativeCoverageName>ghsl-population-built-up-estimates-degree-urban-smod_built-30ss-2014</nativeCoverageName>
+</coverage>

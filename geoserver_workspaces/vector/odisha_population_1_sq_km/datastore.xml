@@ -1,0 +1,22 @@
+<dataStore>
+  <id>DataStoreInfoImpl--54b0de5f:177884cac0f:-2e70</id>
+  <name>odisha_population_1_sq_km</name>
+  <description>odisha_population_1_sq_km</description>
+  <type>GeoPackage</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-53a0964:16fc2624139:-7fff</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="Batch insert size">1</entry>
+    <entry key="database">/usr/share/geoserver/data_dir/data/cityapp/odisha/census_data/odisha_population_1_sq_km.gpkg</entry>
+    <entry key="fetch size">1000</entry>
+    <entry key="Expose primary keys">false</entry>
+    <entry key="read_only">false</entry>
+    <entry key="dbtype">geopkg</entry>
+    <entry key="namespace">vector</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2021-02-10 06:34:33.331 UTC</dateCreated>
+  <dateModified>2022-04-18 06:37:25.309 UTC</dateModified>
+</dataStore>

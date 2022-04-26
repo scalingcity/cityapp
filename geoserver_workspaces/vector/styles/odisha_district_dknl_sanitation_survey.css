@@ -1,0 +1,50 @@
+/* @title Dhenkanal district sanitation survey */
+
+/*@title Single pit */
+[ ihhl_oss_c = 'Single Pit' ] {
+    mark: symbol(circle);
+  	mark-size: 10;
+  	:mark{
+  	stroke: #800;
+  	stroke-width: 0.5;
+  	fill: #ff3;
+  	fill-opacity: 1;
+	}
+}
+
+/*@title Twin pits */
+[ ihhl_oss_c = 'Twin Pits' ] {
+    mark: symbol(circle);
+  	mark-size: 10;
+  	:mark{
+  	stroke: #080;
+  	stroke-width: 0.5;
+  	fill: #99f73d;
+  	fill-opacity: 1;
+	}
+}
+
+/*@title Septic tank */
+[ ihhl_oss_c = '4' ] {
+    mark: symbol(circle);
+  	mark-size: 10;
+  	:mark{
+  	stroke: #800;
+  	stroke-width: 0.5;
+  	fill: #0088e3;
+  	fill-opacity: 1;
+	}
+}
+
+
+/*@title No toilet */
+[ ihhl_oss_c = '0' ] {
+    mark: symbol(circle);
+  	mark-size: 10;
+  	:mark{
+  	stroke: #808;
+  	stroke-width: 0.5;
+  	fill: #cc0000;
+  	fill-opacity: 1;
+	}
+}

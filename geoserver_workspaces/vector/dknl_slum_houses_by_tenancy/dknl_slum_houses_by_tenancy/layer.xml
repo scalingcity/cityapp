@@ -1,0 +1,17 @@
+<layer>
+  <name>dknl_slum_houses_by_tenancy</name>
+  <id>LayerInfoImpl--19027bb0:1787232445e:-7d1a</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--19027bb0:1787232445e:-7d19</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--19027bb0:1787232445e:-7d1b</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-04-01 11:54:43.766 UTC</dateCreated>
+  <dateModified>2021-04-01 11:57:51.41 UTC</dateModified>
+</layer>

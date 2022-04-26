@@ -1,0 +1,22 @@
+<dataStore>
+  <id>DataStoreInfoImpl--3bfc4929:17cca6aa6d7:-7fff</id>
+  <name>india_sts_class</name>
+  <description>india_sts_class</description>
+  <type>GeoPackage</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-53a0964:16fc2624139:-7fff</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="Batch insert size">1</entry>
+    <entry key="database">/usr/share/geoserver/bin/../data_dir/data/cityapp/india/india_sts_class.gpkg</entry>
+    <entry key="fetch size">1000</entry>
+    <entry key="Expose primary keys">false</entry>
+    <entry key="read_only">false</entry>
+    <entry key="dbtype">geopkg</entry>
+    <entry key="namespace">vector</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2021-10-29 05:01:45.52 UTC</dateCreated>
+  <dateModified>2022-04-14 07:19:01.368 UTC</dateModified>
+</dataStore>

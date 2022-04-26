@@ -1,0 +1,17 @@
+<layer>
+  <name>odisha_district_dknl_panch</name>
+  <id>LayerInfoImpl--54b0de5f:177884cac0f:-161a</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--54b0de5f:177884cac0f:-2eb7</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--54b0de5f:177884cac0f:-161b</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-02-10 10:11:53.79 UTC</dateCreated>
+  <dateModified>2021-02-10 10:14:21.418 UTC</dateModified>
+</layer>

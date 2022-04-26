@@ -1,0 +1,22 @@
+<dataStore>
+  <id>DataStoreInfoImpl-185c3431:18040cd3e6b:-7fff</id>
+  <name>ldv_geopoints</name>
+  <description>ldv_geopoints</description>
+  <type>GeoPackage</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-53a0964:16fc2624139:-7fff</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="fetch size">1000</entry>
+    <entry key="Expose primary keys">false</entry>
+    <entry key="Batch insert size">1</entry>
+    <entry key="database">/usr/share/geoserver/data_dir/data/cityapp/india/ldv_geopoints.gpkg</entry>
+    <entry key="read_only">false</entry>
+    <entry key="dbtype">geopkg</entry>
+    <entry key="namespace">vector</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2022-04-19 07:54:50.676 UTC</dateCreated>
+  <dateModified>2022-04-19 07:54:52.915 UTC</dateModified>
+</dataStore>

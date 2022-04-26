@@ -1,0 +1,25 @@
+<layer>
+  <name>india-states</name>
+  <id>LayerInfoImpl--3b87d7:17c73c90c0f:-7ffd</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--3b87d7:17c73c90c0f:-7ffb</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--3b87d7:17c73c90c0f:-7ffb</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--3b87d7:17c73c90c0f:-7ffe</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-10-12 09:18:20.214 UTC</dateCreated>
+  <dateModified>2022-04-14 07:31:38.817 UTC</dateModified>
+</layer>

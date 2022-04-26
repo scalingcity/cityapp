@@ -1,0 +1,17 @@
+<layer>
+  <name>dknl_educational_institutions</name>
+  <id>LayerInfoImpl--4072d3e9:17712722ddb:-7c2d</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4072d3e9:17712722ddb:-7c2c</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--4072d3e9:17712722ddb:-7c2e</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-01-19 10:52:15.5 UTC</dateCreated>
+  <dateModified>2021-01-19 10:56:10.80 UTC</dateModified>
+</layer>

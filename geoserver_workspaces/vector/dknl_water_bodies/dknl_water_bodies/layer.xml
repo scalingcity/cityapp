@@ -1,0 +1,17 @@
+<layer>
+  <name>dknl_water_bodies</name>
+  <id>LayerInfoImpl--4072d3e9:17712722ddb:-7f27</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4072d3e9:17712722ddb:-7f26</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--4072d3e9:17712722ddb:-7f28</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-01-18 09:09:12.530 UTC</dateCreated>
+  <dateModified>2021-01-18 09:11:48.681 UTC</dateModified>
+</layer>

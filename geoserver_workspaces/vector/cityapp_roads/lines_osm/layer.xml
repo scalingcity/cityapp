@@ -1,0 +1,21 @@
+<layer>
+  <name>lines_osm</name>
+  <id>LayerInfoImpl-53a0964:16fc2624139:-7fee</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-53a0964:16fc2624139:-7ffc</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-53a0964:16fc2624139:-7ffc</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-53a0964:16fc2624139:-7fef</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateModified>2022-04-20 07:55:38.269 UTC</dateModified>
+</layer>

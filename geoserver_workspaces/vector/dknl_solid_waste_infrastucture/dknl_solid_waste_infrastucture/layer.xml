@@ -1,0 +1,17 @@
+<layer>
+  <name>dknl_solid_waste_infrastucture</name>
+  <id>LayerInfoImpl--4072d3e9:17712722ddb:-7c4f</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4072d3e9:17712722ddb:-7c4e</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--4072d3e9:17712722ddb:-7c50</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-01-19 10:05:07.150 UTC</dateCreated>
+  <dateModified>2021-01-19 10:07:32.632 UTC</dateModified>
+</layer>

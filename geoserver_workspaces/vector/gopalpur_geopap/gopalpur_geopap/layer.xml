@@ -1,0 +1,17 @@
+<layer>
+  <name>gopalpur_geopap</name>
+  <id>LayerInfoImpl--1fc3369a:177cdaa8c64:-7c43</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--1fc3369a:177cdaa8c64:-7c41</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--1fc3369a:177cdaa8c64:-7c44</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-02-23 11:25:16.345 UTC</dateCreated>
+  <dateModified>2021-02-23 11:43:29.689 UTC</dateModified>
+</layer>

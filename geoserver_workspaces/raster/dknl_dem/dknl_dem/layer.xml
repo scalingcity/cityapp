@@ -1,0 +1,16 @@
+<layer>
+  <name>dknl_dem</name>
+  <id>LayerInfoImpl--4072d3e9:17712722ddb:-7d6e</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl--4072d3e9:17712722ddb:-7d6f</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-01-19 05:16:42.493 UTC</dateCreated>
+</layer>

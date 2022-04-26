@@ -1,0 +1,22 @@
+<layer>
+  <name>odisha_population_1_sq_km</name>
+  <id>LayerInfoImpl--54b0de5f:177884cac0f:-2e6e</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--54b0de5f:177884cac0f:-2e6d</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--54b0de5f:177884cac0f:-2e6d</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--54b0de5f:177884cac0f:-2e6f</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-02-10 06:34:42.160 UTC</dateCreated>
+  <dateModified>2022-04-18 06:36:06.485 UTC</dateModified>
+</layer>

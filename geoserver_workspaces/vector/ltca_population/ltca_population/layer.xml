@@ -1,0 +1,17 @@
+<layer>
+  <name>ltca_population</name>
+  <id>LayerInfoImpl--45a1c7c2:174d64bdc92:-7c19</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--45a1c7c2:174d64bdc92:-7c30</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--45a1c7c2:174d64bdc92:-7c1a</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2020-10-13 12:51:40.332 UTC</dateCreated>
+  <dateModified>2020-10-13 12:54:30.805 UTC</dateModified>
+</layer>

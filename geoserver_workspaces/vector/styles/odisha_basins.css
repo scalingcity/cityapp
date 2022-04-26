@@ -1,0 +1,103 @@
+/* @title Odisha River Basins */
+
+/* @title Mahanadi */
+[name ='Mahanadi' ]{
+    stroke: #000000;
+    stroke-width: 0.1;
+    fill: #9fc5e8;
+  	fill-opacity: 0.6;
+}
+
+/* @title Brahmani */
+[name ='Brahmani' ]{
+    stroke: #000000;
+    stroke-width: 0.1;
+    fill: #81d8d7;
+    fill-opacity: 0.6;
+
+}
+
+/* @title Baitarani */
+[name ='Baitarani' ]{
+    stroke: #000000;
+    stroke-width: 0.1;
+    fill: #0075c3;
+  	fill-opacity: 0.6;
+}
+
+/* @title Kolab */
+[name ='Kolab' ]{
+    stroke: #000000;
+    stroke-width: 0.1;
+    fill: #185dd0;
+  	fill-opacity: 0.6;
+}
+
+/* @title Vasandhara */
+[name ='Vasandhara' ]{
+    stroke: #000000;
+    stroke-width: 0.1;
+    fill: #5afbff;
+  	fill-opacity: 0.6;
+}
+
+
+
+/* @title Indravati */
+[name ='Indravati' ]{
+    stroke: #000000;
+    stroke-width: 0.1;
+    fill: #74c5c5;
+  	fill-opacity: 0.6;
+}
+
+
+
+
+/* @title Nagavali */
+[name ='Nagavali' ]{
+    stroke: #000000;
+    stroke-width: 0.1;
+    fill: #15999c;
+  	fill-opacity: 0.6;
+}
+
+
+
+
+/* @title Bahuda */
+[name ='Bahuda' ]{
+    stroke: #000000;
+    stroke-width: 0.1;
+    fill: #02f294;
+  	fill-opacity: 0.6;
+}
+
+
+
+/* @title Rushikulya */
+[name ='Rushikulya' ]{
+    stroke: #000000;
+    stroke-width: 0.1;
+    fill: #cfe2f3;
+  	fill-opacity: 0.6;
+}
+
+
+/* @title Subarnarekha */
+[name ='Subarnarekha' ]{
+    stroke: #000000;
+    stroke-width: 0.1;
+    fill: #09d5ad;
+  	fill-opacity: 0.6;
+}
+
+
+
+/* @title Budhabalanga */
+[name ='Budhabalanga' ]{
+    stroke: #000000;
+    stroke-width: 0.1;
+    fill: #07c5e9;
+  	fill-opacity: 0.6;
+}

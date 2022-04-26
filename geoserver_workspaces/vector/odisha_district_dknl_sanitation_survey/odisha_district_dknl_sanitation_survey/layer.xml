@@ -1,0 +1,17 @@
+<layer>
+  <name>odisha_district_dknl_sanitation_survey</name>
+  <id>LayerInfoImpl--54b0de5f:177884cac0f:-1616</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--54b0de5f:177884cac0f:-1615</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--54b0de5f:177884cac0f:-1617</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-02-10 10:16:51.45 UTC</dateCreated>
+  <dateModified>2021-02-10 10:18:36.862 UTC</dateModified>
+</layer>

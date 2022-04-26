@@ -1,0 +1,17 @@
+<layer>
+  <name>dknl_slum_houses_on_definite_area</name>
+  <id>LayerInfoImpl--19027bb0:1787232445e:-7d47</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--19027bb0:1787232445e:-7d46</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--19027bb0:1787232445e:-7d48</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-03-31 13:58:13.280 UTC</dateCreated>
+  <dateModified>2021-03-31 14:03:05.329 UTC</dateModified>
+</layer>

@@ -1,0 +1,17 @@
+<layer>
+  <name>dknl_landuse</name>
+  <id>LayerInfoImpl--4072d3e9:17712722ddb:-7fa2</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4072d3e9:17712722ddb:-7fa1</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--4072d3e9:17712722ddb:-7fa3</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-01-17 22:45:33.347 UTC</dateCreated>
+  <dateModified>2021-01-19 08:45:19.897 UTC</dateModified>
+</layer>

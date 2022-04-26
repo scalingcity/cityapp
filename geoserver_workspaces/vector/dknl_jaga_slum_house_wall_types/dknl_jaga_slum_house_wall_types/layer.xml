@@ -1,0 +1,17 @@
+<layer>
+  <name>dknl_jaga_slum_house_wall_types</name>
+  <id>LayerInfoImpl--1bb0b972:1778f990dc7:-6c74</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4072d3e9:17712722ddb:-7f6e</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--1bb0b972:1778f990dc7:-6c75</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-02-11 19:59:04.535 UTC</dateCreated>
+  <dateModified>2021-02-12 04:48:53.807 UTC</dateModified>
+</layer>

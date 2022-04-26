@@ -1,0 +1,17 @@
+<layer>
+  <name>dknl_waste_water_treatment_hotspot</name>
+  <id>LayerInfoImpl--4072d3e9:17712722ddb:-7cb0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4072d3e9:17712722ddb:-7caf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--4072d3e9:17712722ddb:-7cb1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-01-19 09:32:01.920 UTC</dateCreated>
+  <dateModified>2021-01-19 09:35:06.191 UTC</dateModified>
+</layer>

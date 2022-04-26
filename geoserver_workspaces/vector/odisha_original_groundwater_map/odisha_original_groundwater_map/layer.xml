@@ -1,0 +1,17 @@
+<layer>
+  <name>odisha_original_groundwater_map</name>
+  <id>LayerInfoImpl--52e70193:1778ccef41e:-75ca</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--52e70193:1778ccef41e:-75c9</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--52e70193:1778ccef41e:-75cb</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-02-10 18:14:39.390 UTC</dateCreated>
+  <dateModified>2021-02-10 18:17:45.125 UTC</dateModified>
+</layer>

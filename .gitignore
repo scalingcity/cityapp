@@ -1,0 +1,27 @@
+# runtime files
+/data_from_browser
+/data_to_client
+temp_*
+launch_locked
+
+#exception to the rule 
+!geoserver_data/.gitkeep
+!data_to_client/.gitkeep
+!data_from_browser/.gitkeep
+
+# user data
+/geoserver_data
+/grass/global
+*.gpkg
+*.gpkg-shm
+*.gpkg-wal
+*.tif
+*.tif.aux.xml
+*.pdf
+*.ps
+
+# Node.js dependencies
+node_modules
+
+# Ignore files related to api keys
+.env

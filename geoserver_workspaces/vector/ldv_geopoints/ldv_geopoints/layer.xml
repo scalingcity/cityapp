@@ -1,0 +1,22 @@
+<layer>
+  <name>ldv_geopoints</name>
+  <id>LayerInfoImpl-185c3431:18040cd3e6b:-7ffd</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-185c3431:18040cd3e6b:-7ffe</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-04-19 07:56:25.432 UTC</dateCreated>
+  <dateModified>2022-04-19 08:27:53.109 UTC</dateModified>
+</layer>

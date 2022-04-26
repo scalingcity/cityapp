@@ -1,0 +1,17 @@
+<layer>
+  <name>dknl_jaga_slum_households_average_income</name>
+  <id>LayerInfoImpl--1bb0b972:1778f990dc7:-5bfb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--1bb0b972:1778f990dc7:-5bfa</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--1bb0b972:1778f990dc7:-5bfc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-02-12 05:11:02.12 UTC</dateCreated>
+  <dateModified>2021-02-12 05:12:42.320 UTC</dateModified>
+</layer>

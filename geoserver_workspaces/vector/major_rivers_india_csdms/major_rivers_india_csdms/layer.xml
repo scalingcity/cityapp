@@ -1,0 +1,22 @@
+<layer>
+  <name>major_rivers_india_csdms</name>
+  <id>LayerInfoImpl-dbc687f:180416bbbaf:-7ff5</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe3</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fe3</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-dbc687f:180416bbbaf:-7ff6</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-04-19 12:03:44.155 UTC</dateCreated>
+  <dateModified>2022-04-19 12:04:15.890 UTC</dateModified>
+</layer>

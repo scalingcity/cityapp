@@ -1,0 +1,20 @@
+<dataStore>
+  <id>DataStoreInfoImpl--1fc3369a:177cdaa8c64:-719c</id>
+  <name>dknl_revenue_tenancy_private</name>
+  <description>dknl_revenue_tenancy_private</description>
+  <type>GeoPackage</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-53a0964:16fc2624139:-7fff</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="Batch insert size">1</entry>
+    <entry key="database">/usr/share/geoserver/bin/../data_dir/data/cityapp/dhenkanal/dknl_revenue_plots.gpkg</entry>
+    <entry key="fetch size">1000</entry>
+    <entry key="Expose primary keys">false</entry>
+    <entry key="dbtype">geopkg</entry>
+    <entry key="namespace">vector</entry>
+  </connectionParameters>
+  <__default>false</__default>
+  <dateCreated>2021-02-24 06:54:16.938 UTC</dateCreated>
+</dataStore>

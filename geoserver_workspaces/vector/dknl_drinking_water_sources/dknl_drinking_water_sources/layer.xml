@@ -1,0 +1,17 @@
+<layer>
+  <name>dknl_drinking_water_sources</name>
+  <id>LayerInfoImpl--4072d3e9:17712722ddb:-7e41</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--4072d3e9:17712722ddb:-7e40</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--4072d3e9:17712722ddb:-7e42</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2021-01-18 13:43:43.866 UTC</dateCreated>
+  <dateModified>2021-01-18 13:45:55.301 UTC</dateModified>
+</layer>

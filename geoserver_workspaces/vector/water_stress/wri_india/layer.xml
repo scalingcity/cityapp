@@ -1,0 +1,17 @@
+<layer>
+  <name>wri_india</name>
+  <id>LayerInfoImpl-185c3431:18040cd3e6b:-7ff6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-185c3431:18040cd3e6b:-7ff7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-04-19 10:27:28.426 UTC</dateCreated>
+  <dateModified>2022-04-19 10:48:37.753 UTC</dateModified>
+</layer>

@@ -1,0 +1,13 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl--4072d3e9:17712722ddb:-7d70</id>
+  <name>dknl_dem</name>
+  <description>dknl_dem</description>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-53a0964:16fc2624139:-7fc9</id>
+  </workspace>
+  <__default>false</__default>
+  <dateCreated>2021-01-19 05:16:33.552 UTC</dateCreated>
+  <url>/usr/share/geoserver/data_dir/data/cityapp/dhenkanal/dknl_dem.tif</url>
+</coverageStore>
