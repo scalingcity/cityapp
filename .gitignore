@@ -5,6 +5,9 @@ geoserver_data/*
 temp_*
 launch_locked
 
+
+#added an extra comment
+
 #exception to the rule 
 !geoserver_data/.gitkeep
 !data_to_client/.gitkeep
