@@ -1,6 +1,7 @@
 # runtime files
 data_from_browser/*
 data_to_client/*
+geoserver_data/*
 temp_*
 launch_locked
 
@@ -10,7 +11,7 @@ launch_locked
 !data_from_browser/.gitkeep
 
 # user data
-geoserver_data/*
+
 /grass/global
 *.gpkg
 *.gpkg-shm
