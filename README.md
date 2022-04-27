@@ -1,4 +1,13 @@
 # Open City Toolkit
+The Open City Toolkit (OCT) was developed in cooperation between the CityScienceLab of the HafenCity University Hamburg (HCU) and Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH (GIZ) in India and Ecuador. It is an open source tool and the software for this project is based entirely on open source components. The Open City Toolkit is a web-based geographic information system (GIS) for multi-touch tables that is optimised for the use by non-GIS-experts. It supports integrated and participatory urban planning processes, fostering dialogue between governments and citizens and exchange of knowledge and data between government departments. The main functionality of the Open City Toolkit is to visualise and analyse complex urban data, jointly among local practitioners and with citizens.
+
+# Introduction to CPR and SCI-FI
+CPR is one of India's leading public policy think tanks since 1973 dedicated to conducting research that contributes to the production of high-quality scholarship, better policies, and a more robust public discourse about the structures and processes that shape life in India. The Scaling City Institutions for India(SCIFI) programme, nested at CPR since 2013, aims to better understand 'governance scale' in Indian cities in tandem with 'sector-specific socioeconomic scales'. Through research, the programme aims to inform stakeholders, including the three tiers of the government, to develop better-informed and innovative policies and programmes enabling improved governance and service delivery. 
+
+# Introduction to CityApp
+CityApp is an adaptation of the Open City Toolkit (OCT) by SCI-FI. It was developed with support from Foreign, Commonwealth & Development Office(FCDO) and Omidyar Network(ON) in consultation with Housing & Urban Development Department (HUDD), Odisha for geospatial analytics for decision-making. The underlying data has come from various sourced including HUDD, Odisha, Odisha Space Applications Centre (ORSAC), Central Groundwater Board (CGWB), Urban Local Bodies. The detailed list of data sources is mentioned below. In addition to the above, spatial analysis of the primary data from SCI-FI studies is also available through the CityApp.
+
+**#Installation of the CityApp**
 
 ## Requirements
 
