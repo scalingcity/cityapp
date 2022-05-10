@@ -1,0 +1,14 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl-2bc40f4b:1806fbebe24:-7d47</id>
+  <name>ldv_heatmap</name>
+  <description>Heatmap for large dense villages</description>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-53a0964:16fc2624139:-7fc9</id>
+  </workspace>
+  <__default>false</__default>
+  <dateCreated>2022-05-05 05:22:41.40 UTC</dateCreated>
+  <dateModified>2022-05-05 05:22:42.420 UTC</dateModified>
+  <url>/usr/share/geoserver/data_dir/data/cityapp/india/ldv_heatmap.tif</url>
+</coverageStore>

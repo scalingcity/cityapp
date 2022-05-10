@@ -1,0 +1,16 @@
+<layer>
+  <name>ldv_heatmap</name>
+  <id>LayerInfoImpl-2bc40f4b:1806fbebe24:-7d45</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-2bc40f4b:1806fbebe24:-7d48</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-2bc40f4b:1806fbebe24:-7d46</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-05-05 05:23:45.319 UTC</dateCreated>
+</layer>

@@ -1,8 +1,22 @@
+<FeatureTypeStyle>
+2      <Rule>
+3        <PolygonSymbolizer>
+4          <Fill>
+5            <CssParameter name="fill">#000080</CssParameter>
+6          </Fill>
+7        </PolygonSymbolizer>
+8      </Rule>
+9    </FeatureTypeStyle>
+
 /* @title Indian districts */
-* {
+/* {
     stroke: #f3f3f3;
     stroke-width: 1;
   	stroke-opacity: 0.8;
    
     
- }
+ }*/
+
+<Label>
+  <ogc:PropertyName>STATE_NAME</ogc:PropertyName> (<ogc:PropertyName>STATE_ABBR</ogc:PropertyName>)
+</Label>

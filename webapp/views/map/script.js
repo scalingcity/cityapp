@@ -127,15 +127,6 @@ const map = new L.Map('map', {
                             minZoom: 1
                             });
 
-    // added large density village
-         const ldv_geopoints = L.tileLayer.wms(geoserverUrl + 'geoserver/vector/wms', {
-		            layers: 'vector:ldv_geopoints',
-		            format: 'image/png',
-		            transparent: true,
-		            legend_yes: false,
-		            maxZoom: 20,
-		            minZoom: 1
-		            });
 
 
     // added water stress
@@ -143,7 +134,7 @@ const map = new L.Map('map', {
 		             layers: 'vector:wri_india',
 		             format: 'image/png',
 		             transparent: true,
-		             legend_yes: false,
+		             legend_yes: true,
 		             maxZoom: 20,
 		             minZoom: 1
 		             });
@@ -178,7 +169,8 @@ const map = new L.Map('map', {
 		             transparent: true,
 		             legend_yes: false,
 		             maxZoom: 20,
-		             minZoom: 1
+		             minZoom:1,
+		    	     legend_yes:true, 
 		             });
 
 
@@ -202,14 +194,34 @@ const map = new L.Map('map', {
                             minZoom: 1,
                             });
 
-	const india_town_heatmap = L.tileLayer.wms(geoserverUrl + 'geoserver/vector/wms', {
-			layers:'vector:india_sts_class_up',
+	const india_town_heatmap = L.tileLayer.wms(geoserverUrl + 'geoserver/raster/wms', {
+			layers:'raster:india_urban_heatmap',
 			format: 'image/png',
 			transparent: true,
-			legend_yes: true,
+			legend_yes: false,
 			maxZoom: 20,
 			minZoom:1,
 	});
+	const ldv_heatmap = L.tileLayer.wms(geoserverUrl + 'geoserver/raster/wms', {
+			layers:'raster:ldv_heatmap',
+			format: 'image/png',
+			transparent:true,
+			legend_yes: false,
+			maxZoom: 20,
+			minZoom:1,
+	});
+
+	 const ldv_geopoints = L.tileLayer.wms(geoserverUrl + 'geoserver/vector/wms', {
+		 	 layers: 'vector:ldv_geopoints',
+		 	 format: 'image/png',
+		 	 transparent: true,
+		 	 legend_yes: true,
+		 	 maxZoom: 20,
+		 	 minZoom: 1
+	});
+
+
+
      		const india_built = L.tileLayer.wms(geoserverUrl + 'geoserver/raster/wms', {
                             layers: 'raster:india_built',
                             format: 'geotiff',
@@ -754,9 +766,17 @@ const selection = L.tileLayer.wms(geoserverUrl + 'geoserver/vector/wms', {
   minZoom: 1
 });
 
-const satellite = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+/*const satellite = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
             maxZoom: 18,
-            });
+            });*/
+
+const satellite= L.tileLayer('https://api.maptiler.com/tiles/satellite-v2/{z}/{x}/{y}.jpg?key=lUBQykSzOMZD1cJ1yPzi',{
+	    tileSize: 512,
+	    zoomOffset: -1,
+	    minZoom: 1,
+	    attribution: "\u003ca href=\"https://www.maptiler.com/copyright/\" target=\"_blank\"\u003e\u0026copy; MapTiler\u003c/a\u003e \u003ca href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\"\u003e\u0026copy; OpenStreetMap contributors\u003c/a\u003e",
+	    crossOrigin: true
+})
   
 
 const drawnItems = L.featureGroup().addTo(map);
@@ -812,8 +832,9 @@ const drawnItems = L.featureGroup().addTo(map);
                     {
 
                         'Indian states': india_states,
-		        'Large Dense Villages': ldv_geopoints, // added Geopoints -pabitra    
-                        'Indian districts': india_districts,
+		        'Large Dense Villages(LDV)': ldv_geopoints, // added Geopoints -pabitra    
+                        'LDV Heatmap':ldv_heatmap,
+			'Indian districts': india_districts,
                         'India towns':india_towns,
 			'Urbanisation Heatmap':india_town_heatmap,
 			'Water Monitoring':nwmp_monitoring, //added water monitoring    

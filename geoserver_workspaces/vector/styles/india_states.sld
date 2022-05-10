@@ -8,8 +8,10 @@
           <sld:Title>Indian states</sld:Title>
           <sld:LineSymbolizer>
             <sld:Stroke>
-              <sld:CssParameter name="stroke-opacity">0.8</sld:CssParameter>
-              <sld:CssParameter name="stroke-width">0.8</sld:CssParameter>
+              <sld:CssParameter name="stroke">#eb1313</sld:CssParameter>
+              <sld:CssParameter name="stroke-linecap">square</sld:CssParameter>
+              <sld:CssParameter name="stroke-linejoin">bevel</sld:CssParameter>
+              <sld:CssParameter name="stroke-width">1.5</sld:CssParameter>
             </sld:Stroke>
           </sld:LineSymbolizer>
         </sld:Rule>

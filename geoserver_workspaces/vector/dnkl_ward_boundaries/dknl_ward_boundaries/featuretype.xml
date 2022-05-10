@@ -43,6 +43,8 @@
     <id>DataStoreInfoImpl--4072d3e9:17712722ddb:-7f2f</id>
   </store>
   <serviceConfiguration>false</serviceConfiguration>
+  <internationalTitle/>
+  <internationalAbstract/>
   <maxFeatures>0</maxFeatures>
   <numDecimals>0</numDecimals>
   <padWithZeros>false</padWithZeros>

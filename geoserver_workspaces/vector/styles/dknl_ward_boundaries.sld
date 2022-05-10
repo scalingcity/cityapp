@@ -14,7 +14,7 @@
             <sld:Stroke>
               <sld:CssParameter name="stroke">#aa00aa</sld:CssParameter>
               <sld:CssParameter name="stroke-opacity">0.4</sld:CssParameter>
-              <sld:CssParameter name="stroke-width">5</sld:CssParameter>
+              <sld:CssParameter name="stroke-width">0.5</sld:CssParameter>
             </sld:Stroke>
           </sld:PolygonSymbolizer>
           <sld:TextSymbolizer>

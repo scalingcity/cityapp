@@ -1,0 +1,17 @@
+<layer>
+  <name>india_urban_heatmap</name>
+  <id>LayerInfoImpl-2bc40f4b:1806fbebe24:-7e5f</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-7d1ed195:18041f19621:-7fd5</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-2bc40f4b:1806fbebe24:-7e60</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2022-05-04 13:12:08.423 UTC</dateCreated>
+  <dateModified>2022-05-04 13:12:44.569 UTC</dateModified>
+</layer>

@@ -12,7 +12,7 @@
             </sld:Fill>
             <sld:Stroke>
               <sld:CssParameter name="stroke">#decaa0</sld:CssParameter>
-              <sld:CssParameter name="stroke-width">6</sld:CssParameter>
+              <sld:CssParameter name="stroke-width">2</sld:CssParameter>
             </sld:Stroke>
           </sld:PolygonSymbolizer>
         </sld:Rule>

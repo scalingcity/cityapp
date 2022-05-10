@@ -1,8 +1,10 @@
 /* @title Indian states */
 * {
-    stroke: #000000;
-    stroke-width: 0.8;
-  	stroke-opacity: 0.8;
+    stroke: #eb1313;
+    stroke-width: 1.5;
+  	stroke-opacity: 1;
+    stroke-linejoin: bevel;
+    stroke-linecap: square;
    
     
  }

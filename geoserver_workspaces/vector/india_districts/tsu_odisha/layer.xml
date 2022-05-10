@@ -1,16 +1,16 @@
 <layer>
-  <name>tsu_districts</name>
-  <id>LayerInfoImpl-185c3431:18040cd3e6b:-7ff9</id>
+  <name>tsu_odisha</name>
+  <id>LayerInfoImpl-2bc40f4b:1806fbebe24:-7f70</id>
   <type>VECTOR</type>
   <defaultStyle>
     <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
   </defaultStyle>
   <resource class="featureType">
-    <id>FeatureTypeInfoImpl-185c3431:18040cd3e6b:-7ffa</id>
+    <id>FeatureTypeInfoImpl-2bc40f4b:1806fbebe24:-7f71</id>
   </resource>
   <attribution>
     <logoWidth>0</logoWidth>
     <logoHeight>0</logoHeight>
   </attribution>
-  <dateCreated>2022-04-19 10:05:55.364 UTC</dateCreated>
+  <dateCreated>2022-04-28 16:30:42.672 UTC</dateCreated>
 </layer>
