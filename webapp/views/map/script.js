@@ -119,7 +119,7 @@ const map = new L.Map('map', {
     //India-wide layers
     
         const india_states = L.tileLayer.wms(geoserverUrl + 'geoserver/vector/wms', {
-                           layers: 'vector:india-states',
+                           layers: 'vector:states_in',
                             format: 'image/png',
                             transparent: true,
                             legend_yes: false,
@@ -145,7 +145,7 @@ const map = new L.Map('map', {
 		              layers: 'vector:nwmp_monitoring',
 		              format: 'image/png',
 		              transparent: true,
-		              legend_yes: false,
+		              legend_yes: true,
 		              maxZoom: 20,
 		              minZoom: 1
 		              });
