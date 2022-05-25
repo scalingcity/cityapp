@@ -36,6 +36,9 @@ app.use('/lib/jquery', express.static('node_modules/jquery/dist'));
 app.use('/lib/bootstrap', express.static('node_modules/bootstrap/dist'));
 app.use('/lib/leaflet', express.static('node_modules/leaflet/dist'));
 app.use('/lib/leaflet-draw', express.static('node_modules/leaflet-draw/dist'));
+app.use('/lib/leaflet-basemaps', express.static('node_modules/leaflet-basemaps'));
+app.use('/lib/leaflet.bigimage', express.static('node_modules/leaflet.bigimage/dist'));
+app.use('/lib/leaflet.control.layers.tree', express.static('node_modules/leaflet.control.layers.tree'));
 
 // Views (using Pug template engine)
 app.set('views', './views')
