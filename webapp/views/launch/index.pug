@@ -5,11 +5,22 @@ html
     link(rel='stylesheet' href='/lib/bootstrap/css/bootstrap.min.css')
     link(rel='stylesheet' href='/lib/leaflet/leaflet.css')
     link(rel='stylesheet' href='/lib/leaflet-draw/leaflet.draw.css')
+    link(rel="stylesheet" href="/lib/leaflet-basemaps/L.Control.Basemaps.css")
+    link(rel="stylesheet" href="/lib/leaflet.bigimage/Leaflet.BigImage.min.css")
+    link(rel="stylesheet" href="/lib/leaflet.control.layers.tree/L.Control.Layers.Tree.css")
+
+
+
+    script(src='https://api.mapbox.com/mapbox-gl-js/v2.8.1/mapbox-gl.js')
+    link(href='https://api.mapbox.com/mapbox-gl-js/v2.8.1/mapbox-gl.css' rel='stylesheet')
 
     script(src='/lib/jquery/jquery.min.js')
     script(src='/lib/bootstrap/js/bootstrap.min.js')
     script(src='/lib/leaflet/leaflet.js')
     script(src='/lib/leaflet-draw/leaflet.draw.js')
+    script(src="/lib/leaflet-basemaps/L.Control.Basemaps-min.js")
+    script(src="/lib/leaflet.bigimage/Leaflet.BigImage.min.js")
+    script(src="/lib/leaflet.control.layers.tree/L.Control.Layers.Tree.js")
 
     style
       include style.css
@@ -19,6 +30,9 @@ html
 
     div(class='main')
       div(class='sidebar')
+        div(class="card card-border")
+          div(class="logo")
+            img(src="images/cityapp_logo.png" id="cityapp_logo" title="Cityapp SCI-FI")
         div(id='launch-app' class='card card-border')
           select(id='launch-app-menu', onchange='launch_app()', class='select-menu')
             option(selected value='') - Applications -
@@ -48,13 +62,6 @@ html
           
       div(id='map-container' class='card')
         include ../map/index.pug
-
-
-      div(id='alert-anchor')
-        
-      div(id='loading')
-        div(class='loading-text') Processing …
-        div(class='spinner spinner-border')
 
     script.
       const geoserverUrl = '#{geoserverUrl}';
