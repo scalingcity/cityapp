@@ -771,15 +771,16 @@ const Module_10_Area= L.tileLayer.wms(geoserverUrl + 'geoserver/vector/wms', {
 
 var indiaOverlayMaps={
     'Indian states': india_states,
-    'Large Dense Villages(LDV)': ldv_geopoints, // added Geopoints -pabitra    
-    'LDV Heatmap':ldv_heatmap,
     'Indian districts': india_districts,
     'India towns':india_towns,
-    'Urbanisation Heatmap':india_town_heatmap,
+    'Major Rivers(CSDMS)':major_rivers_india_csdms, //added MAjor Rivers csdms
     'Water Monitoring':nwmp_monitoring, //added water monitoring    
     'Water Stress': wri_india, // added wri_india
+    'Large Dense Villages(LDV)': ldv_geopoints, // added Geopoints -pabitra    
+    'LDV Heatmap':ldv_heatmap,
+    'Urbanisation Heatmap':india_town_heatmap,
     'NASA EARTH(SEDAC)': india_sedac,// added NASA EARTH SEDAC    
-    'Major Rivers(CSDMS)':major_rivers_india_csdms, //added MAjor Rivers csdms	 
+    	 
 };
 
 var OdishaOverlayMaps={
