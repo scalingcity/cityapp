@@ -30,7 +30,7 @@ MESSAGE_SENT=~/cityapp/data_to_client
 
 # Setting IP adress for geoserver availability
 
-    HOSTNAME=$(curl http://checkip.amazonaws.com)
+   HOSTNAME=$(curl http://checkip.amazonaws.com)
     
         echo "DATA_FROM_BROWSER_DIR=../data_from_browser" > ~/cityapp/webapp/.env
         echo "DATA_TO_CLIENT_DIR=../data_to_client" >> ~/cityapp/webapp/.env
