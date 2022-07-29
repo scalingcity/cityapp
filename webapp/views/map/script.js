@@ -681,6 +681,25 @@ const Slum_Toilettes = L.tileLayer.wms(geoserverUrl + 'geoserver/vector/wms', {
 
 //Processed layers
 
+const drawnItems = L.featureGroup().addTo(map);
+
+const query_area_1 = L.tileLayer.wms(geoserverUrl + 'geoserver/vector/wms', {
+    layers: 'vector:query_area_1',
+    format: 'image/png',
+    transparent: true,
+    maxZoom: 20,
+    minZoom: 1
+    });
+
+    const query_result_area_1 = L.tileLayer.wms(geoserverUrl + 'geoserver/vector/wms', {
+    layers: 'vector:query_result_area_1',
+    format: 'image/png',
+    transparent: true,
+    maxZoom: 20,
+    minZoom: 1
+    });
+
+
 const query_result_point_1 = L.tileLayer.wms(geoserverUrl + 'geoserver/vector/wms', {
     layers: 'vector:query_result_point_1',
     format: 'image/png',
@@ -850,6 +869,21 @@ var BhubaneswarOverlayMaps={
     "Toilette facilities in the slums":Slum_Toilettes,               
 };
 
+var moduleMaps={
+    'Query area 1': query_area_1,
+    'Query results 1': query_result_area_1,
+    'Query result points': query_result_point_1,
+    "Road-level time map": TimeMap,
+    "From-points": FromPoints,
+    "Via-points": ViaPoints,
+    "Stricken area": Stricken_Area,
+    "Accessibility map": AccessibilityMap,
+    "Accessing points": AccessibilityPoints,
+    "Calculated road network": Module_10_Roads,
+    "Endpoints of calculated road network":Module_10_Endpoints,
+    "Project area":Module_10_Area,             
+};
+
 
 var options_India = {
     position: ["topleft"],
@@ -874,29 +908,10 @@ var layercontrol=L.control.layers(null,OdishaOverlayMaps,options_other).addTo(ma
 var layercontrol=L.control.layers(null,BhubaneswarOverlayMaps,options_other).addTo(map);
 var layercontrol=L.control.layers(null,DhenkanalOverlayMaps,options_other).addTo(map);
 var layercontrol=L.control.layers(null,RUConvergenceOverlayMaps,options_other).addTo(map);
+//var layercontrol=L.control.layers(null,moduleMaps,options_other).addTo(map);
 
 
-const drawnItems = L.featureGroup().addTo(map);
 
-// Control panel of extension layers 
-            L.control.layers(
-            {},
-            {
-                'Query area 1': query_area_1,
-                'Query results 1': query_result_area_1,
-                'Query result points': query_result_point_1,
-                "Road-level time map": TimeMap,
-                "From-points": FromPoints,
-                "Via-points": ViaPoints,
-                "Stricken area": Stricken_Area,
-                "Accessibility map": AccessibilityMap,
-                "Accessing points": AccessibilityPoints,
-                "Calculated road network": Module_10_Roads,
-                "Endpoints of calculated road network":Module_10_Endpoints,
-                "Project area":Module_10_Area,
-                },
-            { position: 'topleft', collapsed: true }
-            ).addTo(map);
             
 // others
 
